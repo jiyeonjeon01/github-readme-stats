@@ -462,6 +462,13 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  jy_pink: {
+    title_color: "ffccdd",
+    text_color: "ffccdd",
+    icon_color: "ffccdd". 
+    border_color: "615e5c",
+    bg_color: "b7e3e6",
+  }
 };
 
 export default themes;
